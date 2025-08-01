@@ -44,7 +44,7 @@ Short description of what this project does and the technologies used.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)  
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?tab=rm&ogbl)
 
 ---
 
