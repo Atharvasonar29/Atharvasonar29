@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building c
 - 🌱 I’m currently learning [Technologies or Skills You Are Focusing On]
 - 👯 I’m looking to collaborate on open-source projects related to [Areas of Interest]
 - 💬 Ask me about JavaScript, Python, Web Development, or any tech topics!
-- 📫 How to reach me: atharvsonar29 or connect with me on [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 How to reach me: atharvsonar29@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/yourprofile)
 - ⚡ Fun fact: I love [a hobby or interesting fact about yourself]
 
 ---
