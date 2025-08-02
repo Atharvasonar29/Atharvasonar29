@@ -42,7 +42,7 @@ Short description of what this project does and the technologies used.
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/atharva-sonar-b0b644377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)  
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)]()
 
